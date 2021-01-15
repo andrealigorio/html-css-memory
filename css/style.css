@@ -6,7 +6,7 @@
 
 body {
   background-color: #36b7d6;
-  font-family: 'Caveat Brush', cursive;
+  font-family: 'Fredoka One', cursive;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
   line-height: 120px;
 }
 header > h1 {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 800;
   text-align: center;
   color: white;
