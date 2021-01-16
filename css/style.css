@@ -97,6 +97,7 @@ header > h1 {
 .card:hover {
   background-color: white;
   background-image: none;
+  cursor: pointer;
 }
 
 footer > h4 {
