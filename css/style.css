@@ -5,6 +5,9 @@
 }
 
 body {
+  background-image: url(../img/brain.png);
+  background-repeat: repeat;
+  background-size: 25%;
   background-color: #36b7d6;
   font-family: 'Fredoka One', cursive;
 }
